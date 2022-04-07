@@ -11,7 +11,9 @@
 ![Lot Statistics](https://github.com/dylanvowell/MechaCar_Statistical_Analysis/blob/main/Lot_Summaries.png?raw=true)
 
 ## T-Tests on Suspension Coils
-- According to the t-test results, the mean of PSI across all lots compared to the observed mean has a p-value of .06028 - which means we reject the null hypothesis that there is no difference. 
+- According to the t-test results, the mean of PSI across all lots compared to the observed mean has a p-value of .06028 - which means we reject the null hypothesis that there is no difference. See test results below: 
+
+![Test Results](https://github.com/dylanvowell/MechaCar_Statistical_Analysis/blob/main/t_test%20summaries.png?raw=true)
 
 - Out of the individual lots, only Lot3 was different enough from the observed mean to reject the null hypothesis. 
 
