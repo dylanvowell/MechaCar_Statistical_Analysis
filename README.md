@@ -1,3 +1,13 @@
+## Overview
+A car company needed to run statistical analyses of a new car prototype to identify issues in production data that is blocking the manufacturing team's progress. 
+
+## Process
+Using R: 
+- Performed multiple linear regression analyses to identify which variables in the dataset predict the mpg of MechaCar prototypes 
+- Collected summary statistics on the PSI of suspension coils 
+- Ran t-tests to determine if the manufacturing lots are statistically different from the mean population
+- Designed a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings. 
+
 ## Linear Regression to Predict MPG
 - The variables that provided a non-random amount of variance to the MPG of the values were the Intercept, Vehicle Length, Ground Clearance and maybe Weight since it was close to the 5% cutoff (7%). Overall, this data shows evidence of overfitting and cannot accuratly predict future data. 
 - The slope is not considered to be 0 since there are factors that have significant impact to MPG, shown by their P values. 
